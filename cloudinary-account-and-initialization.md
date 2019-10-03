@@ -44,7 +44,7 @@ created() {
 },
 ```
 
-## Set up a Moive Data Model
+## Set up a Movie Data Model
 
 Since you do not have any data to show yet and are just working with the defaults, initialize `movie` as an empty object:
 
